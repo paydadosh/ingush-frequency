@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Ingush frequency dictionary (PaydaDosh)"
+version: "2026.11"
+date-released: "2026-11-24"
+authors:
+  - name: "PaydaDosh"
+    website: "https://paydadosh.ru"
+    email: "admin@paydadosh.ru"
+license: CC-BY-4.0
+url: "https://paydadosh.ru/frequency"
+repository-code: "https://github.com/paydadosh/ingush-frequency"
+abstract: >-
+  Lemma frequency list of Ingush (inh), a Nakh language of the North Caucasus: 27,774 words (lemma + part of speech)
+  computed from the PaydaDosh corpus of 2.46 million Ingush word tokens in five genres, ranked by frequency times
+  dispersion across genres.
+keywords:
+  - Ingush
+  - inh
+  - frequency dictionary
+  - corpus linguistics
+  - low-resource languages
+  - Nakh languages
+  - Caucasian languages
