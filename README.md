@@ -1,5 +1,8 @@
 # Ingush frequency dictionary (PaydaDosh) — version 2026.11
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24512115.svg)](https://doi.org/10.5281/zenodo.24512115)
+
+
 A lemma frequency list of **Ingush** (ГӀалгӀай мотт, ISO 639-3 `inh`), a Nakh language of the North Caucasus,
 computed from the PaydaDosh corpus of Ingush texts. Online version with examples: <https://paydadosh.ru/frequency>.
 
@@ -91,7 +94,7 @@ The texts themselves are **not** part of this dataset — only counts.
 
 See `CITATION.cff`, or:
 
-> PaydaDosh (2026). *Ingush frequency dictionary*, version 2026.11. https://github.com/paydadosh/ingush-frequency
+> PaydaDosh (2026). *Ingush frequency dictionary*, version 2026.11. Zenodo. https://doi.org/10.5281/zenodo.24512115
 
 ## Contact
 

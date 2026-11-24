@@ -9,6 +9,14 @@ authors:
     website: "https://paydadosh.ru"
     email: "admin@paydadosh.ru"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24512115"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24512115"
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.24512116"
+    description: "Version 2026.11.1"
 url: "https://paydadosh.ru/frequency"
 repository-code: "https://github.com/paydadosh/ingush-frequency"
 abstract: >-
